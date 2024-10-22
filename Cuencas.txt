@@ -1,0 +1,12 @@
+Cuenca del Río Santa|La cuenca del río Santa se ubica en el departamento de Ancash y desemboca en el océano Pacífico
+Cuenca del Río Rímac|La cuenca del río Rímac se encuentra en la región de Lima, siendo uno de los principales ríos que abastecen a la capital peruana.
+Cuenca del Río Tumbes|La cuenca del río Tumbes está localizada en la región de Tumbes, en el norte del Perú, y desemboca en el océano Pacífico.
+Cuenca del Río Piura|La cuenca del río Piura se ubica en la región de Piura, en el noroeste del Perú, y también desemboca en el océano Pacífico.
+Cuenca del Río Jequetepeque|La cuenca del río Jequetepeque se localiza en la región de Cajamarca y desemboca en el océano Pacífico, cerca de la ciudad de Pacasmayo.
+Cuenca del Río Chao|La cuenca del río Chao se encuentra en el departamento de La Libertad y es importante para la agricultura en la zona.
+Cuenca del Río Moche|La cuenca del río Moche se sitúa en la región de La Libertad y desemboca en el océano Pacífico, cerca de la ciudad de Trujillo.
+Cuenca del Río Zaña|La cuenca del río Zaña se localiza en la región de Lambayeque y desemboca en el océano Pacífico.
+Cuenca del Río Huallaga|La cuenca del río Huallaga se encuentra en la región de San Martín y, aunque principal, desemboca en el río Marañón, que a su vez es parte de la cuenca del Amazonas.
+Cuenca del Río Olmos|La cuenca del río Olmos se encuentra en la región de Lambayeque y es importante para la irrigación agrícola.
+Cuenca del Río Chillón|La cuenca del río Chillón está en la región de Lima y también es un importante afluente del río Rímac.
+Cuenca del Río Lurín|La cuenca del río Lurín se encuentra al sur de Lima y desemboca en el océano Pacífico.

@@ -1,0 +1,17 @@
+Río Santa|El río Santa se ubica en el departamento de Ancash y desemboca en el océano Pacífico.
+Río Rímac|El río Rímac se encuentra en la región de Lima, siendo un importante recurso hídrico para la capital peruana.
+Río Tumbes|El río Tumbes está localizado en la región de Tumbes y desemboca en el océano Pacífico.
+Río Piura|El río Piura se ubica en la región de Piura, en el noroeste del Perú, y también desemboca en el océano Pacífico.
+Río Jequetepeque|El río Jequetepeque se localiza en la región de Cajamarca y desemboca en el océano Pacífico, cerca de la ciudad de Pacasmayo.
+Río Chao|El río Chao se encuentra en el departamento de La Libertad y es importante para la agricultura en la zona.
+Río Moche|El río Moche se sitúa en la región de La Libertad y desemboca en el océano Pacífico, cerca de la ciudad de Trujillo.
+Río Zaña|El río Zaña se localiza en la región de Lambayeque y desemboca en el océano Pacífico.
+Río Olmos|El río Olmos se encuentra en la región de Lambayeque y es importante para la irrigación agrícola.
+Río Chillón|El río Chillón está en la región de Lima y es un afluente del río Rímac.
+Río Lurín|El río Lurín se encuentra al sur de Lima y desemboca en el océano Pacífico.
+Río Seco|El río Seco es un pequeño río en la región de La Libertad que también desemboca en el océano Pacífico.
+Río Huarmey|El río Huarmey se ubica en el departamento de Ancash y también desemboca en el océano Pacífico.
+Río Fortaleza|El río Fortaleza se encuentra en la región de Ancash y desemboca en el océano Pacífico.
+Río Sullana|El río Sullana está en la región de Piura y desemboca en el océano Pacífico.
+Río Chira|El río Chira se ubica en la región de Piura y desemboca en el océano Pacífico, cerca de la ciudad de Paita.
+Río Ñana|El río Ñana se localiza en la región de Lambayeque y también desemboca en el océano Pacífico.
